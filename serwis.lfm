@@ -1,0 +1,7 @@
+object dm: Tdm
+  OldCreateOrder = False
+  Height = 293
+  HorizontalOffset = 2285
+  VerticalOffset = 184
+  Width = 430
+end
